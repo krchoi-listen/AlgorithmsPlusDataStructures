@@ -1,4 +1,4 @@
-#include "../Fundamentals/Power.hpp"
+#include "../Fundamentals/FundamentalPower.hpp"
 
 void main(void)
 {
