@@ -27,6 +27,7 @@
 *.lib
 
 # Executables
+launch.json
 *.exe
 *.out
 *.app
